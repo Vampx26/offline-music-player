@@ -27,31 +27,18 @@ Offline Music Player is a fully functional music player that allows users to pla
 
 ---
 
-## ▶️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/offline-music-player.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd offline-music-player
-Open index.html in your browser
-(or run using a local server if required)
-
-Load audio files from your device and start playing.
-
 📚 How It Works
 
--Audio files are loaded locally from the user’s device
--Playback is handled using the HTML5 Audio API
--All player controls are managed through JavaScript
--The application works entirely offline
+- Audio files are loaded locally from the user’s device
+- Playback is handled using the HTML5 Audio API
+- All player controls are managed through JavaScript
+- The application works entirely offline
+
+---
 
 📚 What I Learned
 
--Implementing full-featured media controls
--Handling audio events and state management
--Building responsive and interactive UI components
--Creating offline-capable web applications
+- Implementing full-featured media controls
+- Handling audio events and state management
+- Building responsive and interactive UI components
+- Creating offline-capable web applications
